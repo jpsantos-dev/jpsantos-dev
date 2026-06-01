@@ -29,3 +29,6 @@ I am focused on developing strong logic, clean code practices and an engineering
 ## 🎯 Long-Term Vision
 
 To become a high-level software engineer capable of building scalable, efficient and impactful systems.
+
+Alguém passou por aqui!
+Ass: Nicollas :)
